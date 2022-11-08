@@ -4,8 +4,8 @@ This is the code of paper, named "Joint Task Offloading and Resource Optimizatio
 
 ## File Structure
 
-### Main Program
-The main program of the repo is `Experiment/experiment.py`.
+### Main Function
+The main() function of the repo is located in `Experiment/experiment.py`.
 
 ### Algorithms
 
