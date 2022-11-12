@@ -18,9 +18,14 @@ The main() function of the repo is located in `Experiment/experiment.py`.
 ## Citing this paper 
 ```bibtex
 @article{xu2022joint,
-  title={Joint Task Offloading and Resource Optimization in NOMA-based Vehicular Edge Computing: A Game-Theoretic DRL Approach},
+  title={Joint task offloading and resource optimization in NOMA-based vehicular edge computing: A game-theoretic DRL approach},
   author={Xu, Xincao and Liu, Kai and Dai, Penglin and Jin, Feiyu and Ren, Hualing and Zhan, Choujun and Guo, Songtao},
-  journal={arXiv preprint arXiv:2209.12749},
-  year={2022}
+  journal={Journal of Systems Architecture},
+  pages={102780},
+  year={2022},
+  issn = {1383-7621},
+  doi = {https://doi.org/10.1016/j.sysarc.2022.102780},
+  url = {https://www.sciencedirect.com/science/article/pii/S138376212200265X},
+  publisher={Elsevier}
 }
 ```
