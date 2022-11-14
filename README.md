@@ -2,6 +2,13 @@
 
 This is the code of paper, named "Joint Task Offloading and Resource Optimization in NOMA-based Vehicular Edge Computing: A Game-Theoretic DRL Approach", and the proposed solution and comparison algorithms are implemented.
 
+## Environment
+The conda environment file is located in `environment.yml`.    
+It can be used to create the environment by:    
+```bash
+conda env create -f environment.yml
+```
+
 ## File Structure
 
 ### Main Function
