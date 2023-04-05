@@ -22,6 +22,10 @@ The main() function of the repo is located in `Experiment/experiment.py`.
 - Optimal resource allocation and task local processing only (ORL): `Experiment/run_optres_local.py`
 - Optimal resource allocation and task migration only (ORM): `Experiment/run_optres_edge.py`
 
+### Didi Dataset
+
+The vehicular trajectories for November 16, 2016, generated in Chengdu and extracted from the Didi GAIA Open Data Set, can be found on [neardws/Vehicular-Trajectories-Processing-for-Didi-Open-Data](https://github.com/neardws/Vehicular-Trajectories-Processing-for-Didi-Open-Data).
+
 ## Citing this paper 
 ```bibtex
 @article{xu2022joint,
